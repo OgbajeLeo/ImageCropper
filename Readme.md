@@ -12,15 +12,15 @@ To use the Image Cropper, simply follow these steps:
 
 Clone the repository:
 
-Copy code
+Copy code <br>
 git clone `https://github.com/Ogbajeleo/ImageCropper.git`
 
 Navigate to the project directory:
 
-Copy code
+Copy code <br>
 `cd ImageCropper`
 
-Open index.html in your web browser.
+Open index.html in your web browser. <br>
 Upload an image and start cropping!
 
 # Usage
