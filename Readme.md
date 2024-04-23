@@ -38,4 +38,4 @@ Tialwindcss - Frontend framework for responsive design.
 Hero Icons - Icons used in the UI.
 
 # Contact
-For any questions or inquiries, please contact us at email@example.com.
+For any questions or inquiries, please contact us at leonardaromeh@gmail.com.
