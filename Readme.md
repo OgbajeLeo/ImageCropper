@@ -25,7 +25,7 @@ Upload an image and start cropping!
 
 # Usage
 Upload Image: Click the "Upload Photo" button to select an image from your device. <br>
-Crop Image: Use the crop handles to select the desired area, then click the "Crop" button. <br>
+Crop Image: Use the crop handles to select the desired area. <br>
 Zoom and Rotate: Use the zoom slider and rotate buttons to adjust the image. <br>
 Export: Click the "Download" button to save the cropped image.
 
@@ -33,8 +33,8 @@ Export: Click the "Download" button to save the cropped image.
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.
 
 # Acknowledgements
-Cropper.js - Powerful image cropping library.
-Tialwindcss - Frontend framework for responsive design.
+Cropper.js - Powerful image cropping library. <br>
+Tailwindcss - Frontend framework for responsive design. <br>
 Hero Icons - Icons used in the UI.
 
 # Contact
